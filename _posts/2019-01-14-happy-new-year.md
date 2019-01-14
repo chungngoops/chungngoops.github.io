@@ -19,4 +19,4 @@ That enough, and I definitely will have a post at the end of 2019 to review all 
 Cheers!
 
 **Quetion for you:** do you know why I didn't share my new year resolution?  
-**Answer:** slect the text between the brackets [<span style="color:#FFFFFF"> I never made it before.</span> ]
+**Answer:** select the text between the brackets [<span style="color:#FFFFFF"> I never made it before.</span> ]
