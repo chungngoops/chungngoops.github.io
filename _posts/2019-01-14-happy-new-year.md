@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy New Year!
-image: /img/happy-new-year-small.jpeg
+image: /img/happy-new-year-small.jpg
 ---
 Happy new year.
 
